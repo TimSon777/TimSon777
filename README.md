@@ -1,8 +1,4 @@
-###
-
-<h2 align="center">Techs I Use</h2>
-
-###
+<h2 align="center">Technologies</h2>
 
 <div align="center">
   <a href="https://dotnet.microsoft.com">
